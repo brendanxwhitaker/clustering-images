@@ -1,0 +1,52 @@
+,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29
+0,,24,,159,,1999,LAT,37,"ΔR=
+14C Age-Marine09",2,Lat,23,stdev,6,MIN,260,1,9,Ryofu_Maru_2010_2013,8,f(CO2) for air in equilibrium with seawater at sea surface temperature (µatm),2,Cruise,3,OBSERVER,2,Metadata element name,11,Date,4
+1,Depth,19,Latitude,93,"Enter decimal fractions of degrees:  (+ = E, - = W)",113,PATM,35,Depth (m),2,ΔfCO2,22,730(Av),2,YEAR,260,3,8,Keifu_Maru_2001_2012,8,Sea surface temperature (in situ) (°C),2,Ship,3,COMMENTS,2,Help reference no.,11,Long.(W),3
+2,O2,18,Longitude,93,Westernmost Longitude:,113,SST,35,Laboratory Code,2,Lon,22,Sample,2,MONTH,260,6,8,metadata ,8,"Latitude in decimal degrees (North is positive, South is negative)",2,To,2,CRUISE_NAME,2,Your input,11,Lat.(N),3
+3,Temp.,14,Salinity,80,Start Date: (YYYYMMDD) ,90,LONG,35,Reference,2,pCO2_sw,22,578(Av),2,ATM_PRE,260,11,8,Ryofu_Maru_2000_2009,8,Barometric pressure (hPa),2,Detour Latitude,2,CRUISE_ID,2,No,11,Station,2
+4,Alk,10,Year,80,Temporal Coverage,90,SSS,30,Error (±),2,T_sea,22,Denominator,2,LATITUDE,260,5,8,Ryofu_Maru_1989_1995,8,Sea surface salinity (in situ),2,End Latitude,2,ARRIVE_PORT,2,0.0,0.0,Patm,2
+5,DIC,10,Pressure(sea level),69,Time(UTC),68,DATE/Hour,24,Δ14C,2,fCO2_atm,22, pH ,2,HOUR,260,9,8,Keifu_Maru_2012_2013,8,Mole fraction of CO2 in air from equilibrator (µmol/mol),2,Parameter,2,SHIP/EXPERIMENT,2,0.0,0.0,Tpot,1
+6,NO3,9,Speed,69,Mo,68,TEQ,18,Year (AD),2,S_sea,22,Numerator,2,EXPOCODE,260,7,8,0.0,0.0,Temperature of equilibration,2,Area,2,ARRIVE_DATE,2,0.0,0.0,pHSWS25,1
+7,SiO4,8,Sea xpco2,69,Station,68,EXPOCODE,16,pMC,2,ΔpCO2,22, Ratio [R],2,DAY,260,12,8,0.0,0.0,x(CO2) for air in equilibrium with the seawater at sea surface temperature and 1013.25 hPa applied pressure (expressed as µmol/mol in dry air),2,File,2,LEG,2,0.0,0.0,Type,1
+8,PO4,8,SST,69,Year,68,FLUO,13,Latitude,1,xCO2_equ,22,434(Av),2,LONGITUDE,260,8,8,0.0,0.0,"Longitude in decimal degrees (East is positive, West is negative)",2,From,2,DEPARTURE_DATE,2,0.0,0.0,fCO2 sw (1013hPa),1
+9,Sig-t,7,Dry Bulb,69,Day,67,CAP,13,Longitude,1,pCO2_atm,22,T,1,SEC,260,4,8,0.0,0.0,p(CO2) for air in equilibrium with seawater at sea surface temperature (µatm),2,Depth_sampling (m),2,DEPARTURE_PORT,2,0.0,0.0,Tis,1
+10,Trans,7,Air pCO2,69,Comments,67,FCO2(1013),13,Sample ID,1,fCO2_sw,22,434,1,XH2O,130,2,8,0.0,0.0,Date / Time (UTC),2,End data,2,0.0,0.0,0.0,0.0,O2,1
+11,Sal,7,Dy,69,Initial Submission: (YYYYMMDD) ,54,VIT,13,Error (+),1,DOY,22,Anal. Date,1,XCO2_AIR,130,13,8,0.0,0.0,Pressure of equilibration = the pressure in the equilibration vessel (hPa),2,Remarks,2,0.0,0.0,0.0,0.0,Long ºW,1
+12,Sal.,7,T Equil,69,Submission Dates (will be completed by the data management),54,xCO2,13,Sample Integration (yrs),1,T_equ,22,578,1,SST,130,10,8,0.0,0.0,Location,2,Endcruise,2,0.0,0.0,0.0,0.0,Sal ,1
+13,      ,6,Time(UTC),69,Ship,47,FCO2(PATM),12,Site,1,P_atm,22,730,1,EQ_TMP,130,14,5,0.0,0.0,Mole fraction of of H2O in air from equilibrator (µmol/mol),2,End Longitude,2,0.0,0.0,0.0,0.0,sst,1
+14,Chl a,6,sea pCO2 ,69,Measurement platform ID:,47,DATHEUR,9,δ13C,1,WOCE QC flag,21,Corrected,1,EQ_PRE,130,15,4,0.0,0.0,0.0,0.0,Affiliation (during cruise),2,0.0,0.0,0.0,0.0,Initial Time (GMT),1
+15,PAR,5,Wet Bulb,69,CTD,45,PCO2raw,6,0.0,0.0,xCO2_atm,21,Bot. S,1,XCO2_EQ,130,Punta Arenas  Chile,2,0.0,0.0,0.0,0.0,References,2,0.0,0.0,0.0,0.0,Lat ºN,1
+16,Alberto,4,Mo,69, ,41,SAL,5,0.0,0.0,Date,20,Analysis T,1,FCO2_WAT_SST,130,17,2,0.0,0.0,0.0,0.0,Start Longitude,2,0.0,0.0,0.0,0.0,Depth,1
+17,Principal Investigator,4, Air xpco2,69,Precision,36,PH2O,5,0.0,0.0,Sub-flag,20,Station,1,SSS,130,16,2,0.0,0.0,0.0,0.0,Start Latitude,2,0.0,0.0,0.0,0.0,1,1
+18,DIC    ,4,humid,39,CO2 Sensors,33,x(CO2)1013,4,0.0,0.0,QC Comments,20,CRM-meas,1,PCO2_WAT_SST,130,18,1,0.0,0.0,0.0,0.0,Detour_Longitude,2,0.0,0.0,0.0,0.0,TA,1
+19,Stnd    ,4,interp,19,NDIR,33,SST2,3,0.0,0.0,xH2O_equ,1,Pipette vol.,1,XCO2_WAT_SST,130,1203,1,0.0,0.0,0.0,0.0,Startcruise,2,0.0,0.0,0.0,0.0,long,1
+20,First name,4,Min,10,CO2 Sensor,33,f(CO2),3,0.0,0.0,P_equilib,1,A1,1,XCO2_AIR_INT,130,2012/04/17,1,0.0,0.0,0.0,0.0,Authors,2,0.0,0.0,0.0,0.0,pHNBS15,1
+21,Unit,4,Month,10,RV Cefas Endeavour,27,PCO2BRUT,3,0.0,0.0,CRUISE,1,A2,1,0.0,0.0,GV air (12),1,0.0,0.0,0.0,0.0,Start data,2,0.0,0.0,0.0,0.0,fCO2 air (1013hPa),1
+22,Parameter,4,Depth,10,20051128,25,HG_TOT,2,0.0,0.0,min,1,calibration,1,0.0,0.0,2012/03/14,1,0.0,0.0,0.0,0.0,xCO2sw [ppmv],1,0.0,0.0,0.0,0.0,Final depth (m),1
+23,F,3,Date,9,0.5 uatm,23,x(CO2),2,0.0,0.0,pHinsitu,1,Dye,1,0.0,0.0,Drake Passage Research,1,0.0,0.0,0.0,0.0,hh:mm,1,0.0,0.0,0.0,0.0,Lat,1
+24,ANT XI/1,3,Hour,9,RV Prince Madog,20,PHSPHT,2,0.0,0.0,JulianDay,1,Cell,1,0.0,0.0,21,1,0.0,0.0,0.0,0.0,Air Temperature [°C],1,0.0,0.0,0.0,0.0,x(CO2),1
+25,Column,3,Sec,8,20120216,20,TMP,2,0.0,0.0,Year,1,Bot S,1,0.0,0.0,20,1,0.0,0.0,0.0,0.0,true Wind speed [m/s],1,0.0,0.0,0.0,0.0,NO3,1
+26,ANT XI/5,3,Wind speed,7,20120215,17,TIME,2,0.0,0.0,hr,1,Comments,1,0.0,0.0,19,1,0.0,0.0,0.0,0.0,Dec. Lon (°E),1,0.0,0.0,0.0,0.0,Salinity,1
+27,ANT X/8,2,pCO2air,7,Difference,17,LON,2,0.0,0.0,xCO2atm_dry (ppmv),1,pH correction,1,0.0,0.0,RVIB N. B. Palmer 12/3 ,1,0.0,0.0,0.0,0.0,fCO2atm [μatm],1,0.0,0.0,0.0,0.0,sal,1
+28,ANT X/1A,2,TWind1-sp,6,20121112,17,ALKALI,2,0.0,0.0,day,1,CRM-cert,1,0.0,0.0,RPS Tech,1,0.0,0.0,0.0,0.0,fCO2sw [μatm],1,0.0,0.0,0.0,0.0,HTU,1
+29,Cast,2,RWInd1-dir,6,CH3I,14,MEHG,2,0.0,0.0,Longitude,1,Uncorrected,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,ID,1,0.0,0.0,0.0,0.0,lat,1
+30,ANT X/6,2,press,6,HCFC22,14,DATE,2,0.0,0.0,year,1,Anal. Time,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,xCO2atm [ppmv],1,0.0,0.0,0.0,0.0,Tmer,1
+31,SOIREE_transect,2,REL-HUM,6,CH2Cl2,14,f(CO2)sw,2,0.0,0.0,Date+Time,1,ugC,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SW temperature [°C],1,0.0,0.0,0.0,0.0,Final Time (GMT),1
+32,SOIREE_fCO2air,2,depth,6,CH2Br2,14,x(CO2)air,2,0.0,0.0,sec,1,Analysis,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,mon/day/yr,1,0.0,0.0,0.0,0.0,Initial depth (m),1
+33,cast ,2,RWind1-sp,6,PCE,14,SILCAT,2,0.0,0.0,BEN,1,Density,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Dec. Lat (°N),1,0.0,0.0,0.0,0.0,Time,1
+34,TALK   ,2,sal,6,CHBr3,14,DOC,2,0.0,0.0,month,1,Time,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Atm. Pressure [mbar],1,0.0,0.0,0.0,0.0,SiO4H4,1
+35,Max   ,2,fluor,6,CHCl3,14,,2,0.0,0.0,Date/Time,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,salinity [psu],1,0.0,0.0,0.0,0.0,Long,1
+36,Stnd,2,TWind1-dir,6,CFC11,14,SALNTY,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+37,NO2,1,xCO2DryAir,6,A,14,DEPTH,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+38,SIGMA_THET,1,total UV,5,CFC12,14,FCO2 (PATM),1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+39,fCO2A_uATM,1,[CO2]Tair (uMol/Kg),5,CH3Br,14,TCARBN,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+40,OXY_WINK,1,fCO2w,5,CFC113,14,OXYGEN,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+41,RR.RRR,1,dfCO2w-a,5,MC,14,ICE,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+42,SHIP_HEADING_TRUE_DEGREE,1,pCO2w,5,C6H6,14,DATE/HOUR,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+43,QCTALK,1,solar rad,5,B,14,Date/Hour,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+44,DEPTH,1,[CO2]Twater(uMol/Kg),5,H1211,14,NO3+NO2,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+45,2016/07/28,1,UV-B,5,CH3Cl,14,PH_NBS,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+46,C,1,Temp_seawater,5,CCl4,14,SSS2,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+47,ddee,1,Temp_Equilibrator,5,Double single point (4.45;4.41) Open flask,13,DIC,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+48,TALK_CALC,1,dpCO2w-a,5,0.5 ppm,13,Nst,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+49,KHF,1,PAR,5,Absolute,13,NO3+NO2 ,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
