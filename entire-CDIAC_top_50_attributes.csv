@@ -1,0 +1,51 @@
+,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29
+0,,448,,131,,4752,,1602,Year,84,Lat,76,Unit,14,First name,12,MONTH,840,These data are from the startup to the Amerifux tower site in Costa Rica.,3,Date,28,,489,planted,24,pH Scale,5,LAND_OWN,62
+1,Error,176,O2,69,"Enter decimal fractions of degrees:  (+ = E, - = W)",342,Station,210,Date,38,pCO2_sw,66,Parameter,12,Alberto,12,YEAR,840,0.0,0.0,CH4-SIL,16,Latitude,248,harvest,22,Set of Constants,5,DIST_1,60
+2,Error code,160,Depth,60,Westernmost Longitude:,342,Comments,207,Hour,31,fCO2_sw,66,ANT XI/1,9,Principal Investigator,12,HOUR,840,0.0,0.0,SIL ID #,16,Longitude,248,fertilized,22,[B]T Value,5,VEG_TYPE,60
+3,SiteID:,134,Temp.,42,Start Date: (YYYYMMDD) ,272,Time(UTC),204,Month,31,pCO2_atm,66,ANT XI/5,9,0.0,0.0,DAY,840,0.0,0.0,Del 13C,16,Salinity,210,underburn,22,KHSO4,5,LAI<n>_TECHNIQUE,60
+4,LAT,108,DIC,33,Temporal Coverage,272,Mo,204,Latitude,30,T_equ,66,Column,9,0.0,0.0,SEC,780,0.0,0.0,CH4-CMDL,10,Sea xpco2,207,DIST<n>,16,KHF,3,,6
+5,SST,102,Alk,30,Initial Submission: (YYYYMMDD) ,166,Year,204,Min,30,DOY,66,ANT X/8,6,0.0,0.0,ATM_PRE,780,0.0,0.0,Long.(W),9,Wet Bulb,207,Site disturbance history code,14,0.0,0.0,Private,2
+6,PATM,102,NO3,27,Submission Dates (will be completed by the data management),166,Day,201,Longitude,30,fCO2_atm,66,ANT X/1A,6,0.0,0.0,LONGITUDE,780,0.0,0.0,Lat.(N),9,sea pCO2 ,207,till,8,0.0,0.0,Land ownership type,2
+7,LONG,102,SiO4,27,Ship,141,stdev,18,Depth,27,T_sea,66,SOIREE_transect,6,0.0,0.0,EXPOCODE,780,0.0,0.0,Station,6,Pressure(sea level),207,grassland/ungrazed,4,0.0,0.0,0.0,0.0
+8,SSS,87,PO4,27,Measurement platform ID:,141,Sample,6,Salinity,27,P_atm,66,SOIREE_fCO2air,6,0.0,0.0,MIN,780,0.0,0.0,Hydrologic Day of Year,4,Dry Bulb,207,grassland/grazed,4,0.0,0.0,0.0,0.0
+9,DATE/Hour,72,Salinity,22,CTD,135,Numerator,6,Sec,24,ΔfCO2,66,ANT X/6,6,0.0,0.0,LATITUDE,780,0.0,0.0,Hydro Year Total (mm),4, Air xpco2,207,tilled,4,0.0,0.0,0.0,0.0
+10,Leaf Area Index,54,Sal.,21, ,125,578(Av),6,pCO2air,21,xCO2_equ,66,Col,3,0.0,0.0,EQ_TMP,390,0.0,0.0,Event # in Hydro Year,4,Year,207,insects and pathogens,2,0.0,0.0,0.0,0.0
+11,LAI<n>,54,Sal,21,Precision,110,434(Av),6,Wind speed,21,Lon,66,HIPPO program's description,2,0.0,0.0,XCO2_AIR_INT,390,0.0,0.0,Precip Event (mm),4,T Equil,207,natural regeneration,2,0.0,0.0,0.0,0.0
+12,m2/m2,52,Trans,21,CO2 Sensor,99,Denominator,6,xCO2DryAir,18,ΔpCO2,66,Instrument or source (detail),2,0.0,0.0,EQ_PRE,390,0.0,0.0,Initial depth (m),3,SST,207,thinning,2,0.0,0.0,0.0,0.0
+13,TEQ,51,Sig-t,21,NDIR,99, pH ,6,[CO2]Twater(uMol/Kg),15,S_sea,66,Instrument code,2,0.0,0.0,SST,390,0.0,0.0,TA,3,Dy,207,storm,2,0.0,0.0,0.0,0.0
+14,EXPOCODE,48,Chl a,18,CO2 Sensors,99,Bot S,6,dpCO2w-a,15,WOCE QC flag,63,Variable used as source for this entry,2,0.0,0.0,FCO2_WAT_SST,390,0.0,0.0,Final Time (GMT),3,Speed,207,,2,0.0,0.0,0.0,0.0
+15,VIT,39,PAR,15,20121112,85,ALK,6,Temp_seawater,15,xCO2_atm,63,Investigators,2,0.0,0.0,XCO2_WAT_SST,390,0.0,0.0,Final depth (m),3,Time(UTC),207,0.0,0.0,0.0,0.0,0.0,0.0
+16,FLUO,39,t(oC),10,RV Cefas Endeavour,81, Ratio [R],6,Temp_Equilibrator,15,Date,63,Institution,2,0.0,0.0,SSS,390,0.0,0.0,Salinity,3,Mo,207,0.0,0.0,0.0,0.0,0.0,0.0
+17,FCO2(1013),39,Total P (mmol/kgSW),10,20051128,75,TIC,6,dfCO2w-a,15,Sub-flag,60,Unit long name,2,0.0,0.0,XH2O,390,0.0,0.0,Tis,3,Air pCO2,207,0.0,0.0,0.0,0.0,0.0,0.0
+18,xCO2,39,Total Si (mmol/kgSW),10,0.5 uatm,71,730(Av),6,fCO2w,15,QC Comments,60,Derived from another variable,2,0.0,0.0,XCO2_AIR,390,0.0,0.0,NO3,3,humid,117,0.0,0.0,0.0,0.0,0.0,0.0
+19,CAP,39,P (dbars),10,20120216,60,730,3,fCO2Air,15,Long,7,Native meas. frequency or interval,2,0.0,0.0,XCO2_EQ,390,0.0,0.0,pHSWS25,3,interp,57,0.0,0.0,0.0,0.0,0.0,0.0
+20,FCO2(PATM),36,Depth ,9,RV Prince Madog,60,A2,3,pCO2w,15,fCO2-SST,4,Description (no jargon; aimed at informed layperson),2,0.0,0.0,PCO2_WAT_SST,390,0.0,0.0,Lat ºN,3,TWind1-dir,18,0.0,0.0,0.0,0.0,0.0,0.0
+21,4,33,DIC coulometer,9,20120215,51,Anal. Date,3,[CO2]Tair (uMol/Kg),15,pHT-25,4,Comment/Basis,2,0.0,0.0,DOY,60,0.0,0.0,Initial Time (GMT),3,depth,18,0.0,0.0,0.0,0.0,0.0,0.0
+22,1,33,Temperature,6,Difference,48,434,3,Europe,14,GMT,4,Group assignment,2,0.0,0.0,N,60,0.0,0.0,pHNBS15,3,press,18,0.0,0.0,0.0,0.0,0.0,0.0
+23,2,33,Ammonium,6,CH3Cl,42,Date,3,China,14,Sal,4,Ins,2,0.0,0.0,RING,60,0.0,0.0,Long ºW,3,RWInd1-dir,18,0.0,0.0,0.0,0.0,0.0,0.0
+24,3,33,Flag,6,CHBr3,42,T,3,T. Africa,12,ExtSeaTemp,4,Notes; check needed?,2,0.0,0.0,CO2Mean,36,0.0,0.0,Depth,3,sal,18,0.0,0.0,0.0,0.0,0.0,0.0
+25,5,31,bottle,6,CFC12,42,Anal. Time,3,USSR,12,TCO2,4,Analysis method or measurement principle,2,0.0,0.0,CO2MEAN,24,0.0,0.0,SiO4H4,3,REL-HUM,18,0.0,0.0,0.0,0.0,0.0,0.0
+26,7,31,FLAG,6,CFC11,42,NomDepth,3,Trop. Asia,12,sec,3,HIPPO variable name (dd version 20130503_1),2,0.0,0.0,0.0,0.0,0.0,0.0,Tpot,3,fluor,18,0.0,0.0,0.0,0.0,0.0,0.0
+27,6,31,Nitrite,6,CHCl3,42,CTD T,3,Oceania,12,pHinsitu,3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,O2,3,TWind1-sp,18,0.0,0.0,0.0,0.0,0.0,0.0
+28,10,31,Latitude,6,CCl4,42,Dy,3,Airpressure,12,xCO2atm_dry (ppmv),3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lat,2,RWind1-sp,18,0.0,0.0,0.0,0.0,0.0,0.0
+29,11,31,Phosphate,6,CFC113,42,Time,3,T. America,12,HTU,3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,CH4-CSIRO,2,PAR,15,0.0,0.0,0.0,0.0,0.0,0.0
+30,8,31,Station ,6,CH2Br2,42,Longitude,3,Total,12,min,3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,CH4-NIWAR,2,UV-B,15,0.0,0.0,0.0,0.0,0.0,0.0
+31,9,31,Temp,6,H1211,42,Cell,3,N. Africa & M.E,12,P_equilib,3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Version,2,total UV,15,0.0,0.0,0.0,0.0,0.0,0.0
+32,12,31,Nitrate,6,CH2Cl2,42,Niskin,3,N. America,12,x(CO2),3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Comments about the HIPPO Data Dictionary versions,2,solar rad,15,0.0,0.0,0.0,0.0,0.0,0.0
+33,metadata ,24,Longitude,6,C6H6,42,Pres,3,# bud,10,year,3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Long,2,air temp,12,0.0,0.0,0.0,0.0,0.0,0.0
+34,Keifu_Maru_2001_2012,24,Cast,6,PCE,42,A1,3,# seeds,10,Year,3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Comments,2,precip,12,0.0,0.0,0.0,0.0,0.0,0.0
+35,Keifu_Maru_2012_2013,24,TAlk,6,CH3I,42,Latitude,3,Trtmt,10,Type,3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,2,water temp,12,0.0,0.0,0.0,0.0,0.0,0.0
+36,Ryofu_Maru_2000_2009,24,Bottle,6,MC,42,578,3,Degree,10,1,3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Temp_C,9,0.0,0.0,0.0,0.0,0.0,0.0
+37,DATE,24,NH4,6,CH3Br,42,Cast,3,Species,10,month,3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Time_EDT,9,0.0,0.0,0.0,0.0,0.0,0.0
+38,DATHEUR,24,cast ,6,HCFC22,42,Comment,3,Leaves,10,BEN,3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Date_EDT,9,0.0,0.0,0.0,0.0,0.0,0.0
+39,Ryofu_Maru_2010_2013,24,WCa in,5,0.5 ppm,39,pH correction,3,Day,10,Tmer,3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Date_UTC,9,0.0,0.0,0.0,0.0,0.0,0.0
+40,Ryofu_Maru_1989_1995,24,t(oC) in,5,DIC,39,Dye,3,Length,10,Date+Time,3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Cruise_ID,9,0.0,0.0,0.0,0.0,0.0,0.0
+41,Micrometeriological Data taken at the Nevada Desert FACE Facility.  Data is logged every minute.  Minute data for all rings are combined and averaged over one hour.,22,pH in,5,B,39,0.0,0.0,Distance,10,JulianDay,3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Time_UTC,9,0.0,0.0,0.0,0.0,0.0,0.0
+42,CO2 Min,20,pH out,5,A,39,0.0,0.0,Diameter,10,hr,3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,air-temp,6,0.0,0.0,0.0,0.0,0.0,0.0
+43,CO2 Control,20,TCO2 (mmol/kgSW),5,CHBr2Cl,36,0.0,0.0,rep Shoot,10,Longitude,3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Precip,6,0.0,0.0,0.0,0.0,0.0,0.0
+44,Date-Hour,20,pCO2 in (matm),5,Double single point (4.45;4.41) Open flask,36,0.0,0.0,Ring,10,day,3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,CO2,6,0.0,0.0,0.0,0.0,0.0,0.0
+45,CO2 Max,20,CO2 out (mmol/kgSW),5,Curve Fitting Method,36,0.0,0.0,Branches,10,Date/Time,3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Ship_Sal_PSU,6,0.0,0.0,0.0,0.0,0.0,0.0
+46,Description,20,fCO2 out (matm),5,Absolute,36,0.0,0.0,Plant,10,Patm,3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,water-temp,6,0.0,0.0,0.0,0.0,0.0,0.0
+47,Temp Avg,20,OH in (mmol/kgSW),5,CFC141b,36,0.0,0.0,flower/inf,10,xH2O_equ,3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Radiat PIR,3,0.0,0.0,0.0,0.0,0.0,0.0
+48,0,20,WAr in,5,Alkalinty,36,0.0,0.0,Shoot,10,Sal ,3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,TA,3,0.0,0.0,0.0,0.0,0.0,0.0
+49,PV-R,20,WCa out,5,CFC142b,36,0.0,0.0,Jultime0,9,CRUISE,3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,down_welling_shortwave_psp,3,0.0,0.0,0.0,0.0,0.0,0.0
