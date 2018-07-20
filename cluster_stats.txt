@@ -1,0 +1,22 @@
+Cluster 0
+20 files 
+1 unique directories
+Avg dir frequency: 18.0
+Median dir frequency: 18.0
+Std-dev dir frequency: 0.0
+Nearest shared directory: /home/ljung/2-ary_toy_dataset/1/
+Silhouette score: 0.05555555555555555
+Top 10 words: allow, allow, allow, article, article, article
+
+Cluster 1
+20 files 
+1 unique directories
+Avg dir frequency: 18.0
+Median dir frequency: 18.0
+Std-dev dir frequency: 0.0
+Nearest shared directory: /home/ljung/2-ary_toy_dataset/0/
+Silhouette score: 0.05555555555555555
+Top 10 words: article, article, article, allow, allow, allow
+
+
+Total silhouette score: 0.05555555555555555
